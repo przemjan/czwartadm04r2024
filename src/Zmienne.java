@@ -32,6 +32,12 @@ public class Zmienne {
 
         boolean sun = true; //false
 
+        // https://github.com/przemjan/czwartadm04r2024
+
+
+
+        // \\ubuckp\public\janisz
+
 
     }
 
