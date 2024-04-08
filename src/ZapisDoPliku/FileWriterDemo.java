@@ -13,7 +13,6 @@ public class FileWriterDemo {
 
         String nazwaPliku = scanner.nextLine();
 
-
         FileWriter fw = new FileWriter(nazwaPliku,true);
 
         PrintWriter pw = new PrintWriter(fw);
